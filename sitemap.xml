@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://devblog.github.com/</loc>
+        <lastmod>2013-07-17T02:53:56+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devblog.github.com/blog/archives/</loc>
+        <lastmod>2013-07-17T02:53:56+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devblog.github.com/robots.txt</loc>
+        <lastmod>2013-07-17T02:53:56+08:00</lastmod>
+    </url>
+</urlset>
